@@ -6,3 +6,9 @@ script2:
 
 script3:
 Egy személyeket tartozó object-et szűrjük le csak a nőkre
+
+script4:
+Megírtuk a saját filter metódusunkat, ami egy Callback function
+
+script5:
+Megírtuk a saját map metódusunkat, ami egy Callback function
